@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the documentation for the Cricket Scorer Web App! This app is designed to assist in Tracking score in gully cricket matches and small tournaments. With the ability to input team names, overs, and individual ball scores, this app aims to simplify the scoring process and determine the winner of the match.
 
-[![image](<img width="1915" height="873" alt="Image" src="https://github.com/user-attachments/assets/8b14d73f-8e86-4402-a307-02ec933a6ea9" />
+(<img width="1915" height="873" alt="Image" src="https://github.com/user-attachments/assets/8b14d73f-8e86-4402-a307-02ec933a6ea9" />
 
 <img width="1742" height="794" alt="Image" src="https://github.com/user-attachments/assets/e8f042d7-3bfd-4454-874d-4bd36e0ab65e" />
 
@@ -13,7 +13,8 @@ Welcome to the documentation for the Cricket Scorer Web App! This app is designe
 The Cricket Scorer Web App provides a user-friendly interface for Tracking score in cricket matches. It allows users to input team names, number of overs, and ball-by-ball scores for each team. Once the scores are entered, they cannot be edited, ensuring transparency and fairness in the scoring process.
 
 ## 2. Getting Started
-- Link => [Click To Get Started] 
+- Link => [Click To Get Started](https://satendravron.github.io/LiveWicket-CricHeroes-Real-time-scorecard/)
+
 
 ## 3. Usage
 
@@ -38,7 +39,7 @@ The Cricket Scorer Web App provides a user-friendly interface for Tracking score
 
 4. **Match Result:**
    
-<img width="1820" height="767" alt="Image" src="https://github.com/user-attachments/assets/4bf2003f-61d7-4e3e-b82f-9aaa876f27bb" />)
+<img width="1820" height="767" alt="Image" src="https://github.com/user-attachments/assets/4bf2003f-61d7-4e3e-b82f-9aaa876f27bb" />
 
    - Once scores for all balls are entered for both teams, the app will automatically determine and display the winner of the match.
 
