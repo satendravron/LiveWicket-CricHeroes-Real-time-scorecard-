@@ -13,7 +13,12 @@ Welcome to the documentation for the Cricket Scorer Web App! This app is designe
 The Cricket Scorer Web App provides a user-friendly interface for Tracking score in cricket matches. It allows users to input team names, number of overs, and ball-by-ball scores for each team. Once the scores are entered, they cannot be edited, ensuring transparency and fairness in the scoring process.
 
 ## 2. Getting Started
-- Link => [Click To Get Started]([https://satendravron.github.io/Cricket-Scorer/])
+- Link => [Click To Get Started](<img width="1915" height="873" alt="Image" src="https://github.com/user-attachments/assets/8b14d73f-8e86-4402-a307-02ec933a6ea9" />
+<img width="1742" height="794" alt="Image" src="https://github.com/user-attachments/assets/e8f042d7-3bfd-4454-874d-4bd36e0ab65e" />
+<img width="1485" height="551" alt="Image" src="https://github.com/user-attachments/assets/64194ea4-528c-4397-a6a1-7ec1a20be24a" />
+<img width="1887" height="829" alt="Image" src="https://github.com/user-attachments/assets/2bd8c43a-3b33-4f35-817b-9534a39f3f14" />
+<img width="1880" height="827" alt="Image" src="https://github.com/user-attachments/assets/41c2d413-64cb-4e10-b8df-0927530d650f" />
+<img width="1820" height="767" alt="Image" src="https://github.com/user-attachments/assets/4bf2003f-61d7-4e3e-b82f-9aaa876f27bb" />)
 
 ## 3. Usage
 
