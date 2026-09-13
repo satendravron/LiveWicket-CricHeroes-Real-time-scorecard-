@@ -3,9 +3,9 @@
 ## Overview
 Welcome to the documentation for the Cricket Scorer Web App! This app is designed to assist in Tracking score in gully cricket matches and small tournaments. With the ability to input team names, overs, and individual ball scores, this app aims to simplify the scoring process and determine the winner of the match.
 
-[![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/e5e1ab32-5c61-4309-87df-c67aa5b39975)
+[![image](<img width="1915" height="873" alt="Image" src="https://github.com/user-attachments/assets/8b14d73f-8e86-4402-a307-02ec933a6ea9" />
 
-[![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
+<img width="1742" height="794" alt="Image" src="https://github.com/user-attachments/assets/e8f042d7-3bfd-4454-874d-4bd36e0ab65e" />
 
 
 ## 1. Introduction
@@ -13,37 +13,32 @@ Welcome to the documentation for the Cricket Scorer Web App! This app is designe
 The Cricket Scorer Web App provides a user-friendly interface for Tracking score in cricket matches. It allows users to input team names, number of overs, and ball-by-ball scores for each team. Once the scores are entered, they cannot be edited, ensuring transparency and fairness in the scoring process.
 
 ## 2. Getting Started
-- Link => [Click To Get Started](<img width="1915" height="873" alt="Image" src="https://github.com/user-attachments/assets/8b14d73f-8e86-4402-a307-02ec933a6ea9" />
-<img width="1742" height="794" alt="Image" src="https://github.com/user-attachments/assets/e8f042d7-3bfd-4454-874d-4bd36e0ab65e" />
-<img width="1485" height="551" alt="Image" src="https://github.com/user-attachments/assets/64194ea4-528c-4397-a6a1-7ec1a20be24a" />
-<img width="1887" height="829" alt="Image" src="https://github.com/user-attachments/assets/2bd8c43a-3b33-4f35-817b-9534a39f3f14" />
-<img width="1880" height="827" alt="Image" src="https://github.com/user-attachments/assets/41c2d413-64cb-4e10-b8df-0927530d650f" />
-<img width="1820" height="767" alt="Image" src="https://github.com/user-attachments/assets/4bf2003f-61d7-4e3e-b82f-9aaa876f27bb" />)
+- Link => [Click To Get Started] 
 
 ## 3. Usage
 
 1. **Enter Team Names and Overs:**
    
-   ![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/9d64889e-3610-4b68-a1c4-2549b2bcffa8)
+   <img width="1485" height="551" alt="Image" src="https://github.com/user-attachments/assets/64194ea4-528c-4397-a6a1-7ec1a20be24a" />
 
    - On the main page, input the names of the two competing teams and the number of overs for the match.
    
 2. **Score Entry:**
    
-    ![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/5c68f819-ad79-4944-a544-c81e5e07cf49)
+  <img width="1887" height="829" alt="Image" src="https://github.com/user-attachments/assets/2bd8c43a-3b33-4f35-817b-9534a39f3f14" />
 
    - Once the team names and overs are entered, the app will generate input fields for each ball in the match.
    - For each ball, input the runs scored (including extras like wides or no-balls).
    
 3. **Score Locking:**
    
-  [  ![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/9d64889e-3610-4b68-a1c4-2549b2bcffa8)
+ <img width="1880" height="827" alt="Image" src="https://github.com/user-attachments/assets/41c2d413-64cb-4e10-b8df-0927530d650f" />
   
    - After entering the scores for a particular ball, they cannot be edited. This ensures the integrity of the scoring process.
 
 4. **Match Result:**
    
-  [ ![image](https://github.com/satendravron/Cricket-Scorer/assets/97107928/1b57d6ae-9d2f-46e9-8620-f247e4180c98)
+<img width="1820" height="767" alt="Image" src="https://github.com/user-attachments/assets/4bf2003f-61d7-4e3e-b82f-9aaa876f27bb" />)
 
    - Once scores for all balls are entered for both teams, the app will automatically determine and display the winner of the match.
 
